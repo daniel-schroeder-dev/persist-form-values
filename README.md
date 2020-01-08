@@ -8,4 +8,4 @@ A simple example that shows how the Web Storage API can be used to persist user 
 
 ## Demo
 
-A demo can be found here [DEMO](https://remember-form-values.herokuapp.com/)
+A demo can be found here [DEMO](https://daniel-schroeder-dev.github.io/persist-form-values/)
