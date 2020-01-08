@@ -1,0 +1,28 @@
+html {
+  padding-top: 40px;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 500px;
+  border: 1px solid black;
+  padding: 25px;
+}
+
+.form-control {
+  margin-bottom: 20px;
+}
+
+label[for="comment"] {
+  vertical-align: top;
+}
+
+label {
+  width: 75px;
+  display: inline-block;
+  text-align: right;
+}
+
+input {
+  width: 200px;
+}
